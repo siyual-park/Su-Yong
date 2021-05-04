@@ -1,13 +1,12 @@
 # Su-Yong
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=su-yong&show_icons=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=su-yong&show_icons=true&bg_color=0D1117&text_color=8B949E&count_private=true&include_all_commits=true"/>
 <div style="height: 195px;">
 경희대학교 컴퓨터공학과 재학중인 20학번 <b>SuYong</b>입니다.<br/>
-현재 프론트엔드, <b>백엔드</b> 개발자로 일하고 있습니다.
+현재 <b>프론트엔드</b>, 백엔드 개발자로 일하고 있습니다.
 
-개인 블로그는 없으며 `PS`를 못합니다.
+현재 일상, 개발에 관한 이야기를 하는 개인블로그가 있습니다.
 
-위에서 말했듯 프론트엔드, 백엔드 전부 다합니다. 절대 데브옵스는 안할겁니다...
-그만 시켜주세요 제발...
+<a href="https://blog.suyong.me"><img width="25px" height="25px" src="https://github.com/Su-Yong.png">한번 보러 오세요<a/>
 
 경희대학교에서 하는 프로젝트는 모두
 
@@ -16,7 +15,7 @@
 
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su-Yong"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su-Yong&bg_color=0D1117&text_color=8B949E&count_private=true&include_all_commits=true&layout=compact&langs_count=10"/>
 <div>
 제가 사용중인 `IDE`는 Jetbrains의
 
@@ -45,51 +44,53 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![Android](https://img.shields.io/badge/-Android-3ddc84?style=for-the-badge&logo=android&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=000)
+![React-Native](https://img.shields.io/badge/-React%20Native-61dafb?style=for-the-badge&logo=react&logoColor=000)
 ![Deno](https://img.shields.io/badge/-deno-000?style=for-the-badge&logo=deno&logoColor=fff)
 
 * 관심 있는 기술 🎯
 
 ![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust&logoColor=fff)
 ![Go](https://img.shields.io/badge/-Go-00add8?style=for-the-badge&logo=go&logoColor=fff)
+![ReScript](https://img.shields.io/badge/-ReScript-e6484f?style=for-the-badge&logo=rescript&logoColor=fff)
 
 ![Flutter](https://img.shields.io/badge/-flutter-025698?style=for-the-badge&logo=flutter&logoColor=fff)
 ![Svelte](https://img.shields.io/badge/-svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=fff)
+![Kotlin-Compose](https://img.shields.io/badge/-Kotlin%20Compose-0095d5?style=for-the-badge&logo=kotlin&logoColor=fff)
 
-## 집중하고 있는 개인 Repositories 🎯
+## 집중하고 있는 Repositories 🎯
 
 * 백엔드
 
-[![Citrus](https://github-readme-stats.vercel.app/api/pin/?username=design-thinking-6&repo=citrus)](https://github.com/design-thinking-6/citrus)
+`현재는 없어용~~ 하기 시러영~~`
 
 * 프론트엔드
 
-[![suyong-front](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=suyong-front)](https://github.com/su-yong/suyong-front)
-`TODO: Electron을 이용한 무언가`
+[![KiwiTalk](https://github-readme-stats.vercel.app/api/pin/?username=KiwiTalk&repo=KiwiTalk&bg_color=0D1117&text_color=8B949E&count_private=true&include_all_commits=true)](https://github.com/KiwiTalk/KiwiTalk)
 
 ## 비교적 괜찮아 보이는 개인 Repositories 👍
 
 * 경희대의 산물
 
-[![EveryKakaoBridge](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-android)](https://github.com/khu-suyong/linux-kakaotalk-android)
-[![EveryKakaoServer](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=every-kakao-server)](https://github.com/khu-suyong/every-kakao-server)
-[![EveryKakaoClient](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=every-kakao-client)](https://github.com/khu-suyong/every-kakao-client)
+[![EveryKakaoBridge](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-android&bg_color=0D1117&text_color=8B949E&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/linux-kakaotalk-android)
+[![EveryKakaoServer](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=every-kakao-server&bg_color=0D1117&text_color=8B949E&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/every-kakao-server)
+[![EveryKakaoClient](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=every-kakao-client&bg_color=0D1117&text_color=8B949E&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/every-kakao-client)
 
-[![EveryKakaoClientAndroid](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-client-android)](https://github.com/khu-suyong/linux-kakaotalk-client-android)
-[![EveryKakaoServerPython](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-server)](https://github.com/khu-suyong/linux-kakaotalk-server)
+[![EveryKakaoClientAndroid](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-client-android&bg_color=0D1117&text_color=8B949E&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/linux-kakaotalk-client-android)
+[![EveryKakaoServerPython](https://github-readme-stats.vercel.app/api/pin/?username=khu-suyong&repo=linux-kakaotalk-server&bg_color=0D1117&text_color=8B949E&count_private=true&include_all_commits=true)](https://github.com/khu-suyong/linux-kakaotalk-server)
 
-[![Citrus](https://github-readme-stats.vercel.app/api/pin/?username=design-thinking-6&repo=citrus)](https://github.com/design-thinking-6/citrus)
-[![MPhaGo](https://github-readme-stats.vercel.app/api/pin/?username=design-thinking-6&repo=mphago)](https://github.com/design-thinking-6/mphago)
+[![Citrus](https://github-readme-stats.vercel.app/api/pin/?username=design-thinking-6&repo=citrus&bg_color=0D1117&text_color=8B949E&count_private=true&include_all_commits=true)](https://github.com/design-thinking-6/citrus)
+[![MPhaGo](https://github-readme-stats.vercel.app/api/pin/?username=design-thinking-6&repo=mphago&bg_color=0D1117&text_color=8B949E&count_private=true&include_all_commits=true)](https://github.com/design-thinking-6/mphago)
 
 * 카카오봇
 
-[![ScriptableKakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=ScriptableKakaoBot)](https://github.com/Su-Yong/ScriptableKakaoBot)
-[![KakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=kakaobot)](https://github.com/Su-Yong/KakaoBot)
-[![NewKakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=newkakaobot)](https://github.com/Su-Yong/NewKakaoBot)
+[![ScriptableKakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=ScriptableKakaoBot&bg_color=0D1117&text_color=8B949E&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/ScriptableKakaoBot)
+[![KakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=kakaobot&bg_color=0D1117&text_color=8B949E&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/KakaoBot)
+[![NewKakaoBot](https://github-readme-stats.vercel.app/api/pin/?username=su-yong&repo=newkakaobot&bg_color=0D1117&text_color=8B949E&count_private=true&include_all_commits=true)](https://github.com/Su-Yong/NewKakaoBot)
 
 * 그때 그시절
 
-[![Vokkit](https://github-readme-stats.vercel.app/api/pin/?username=vokkit&repo=vokkit-old)](https://github.com/Vokkit/Vokkit-old)
-[![MinimapBE](https://github-readme-stats.vercel.app/api/pin/?username=organization&repo=minimapbe)](https://github.com/organization/minimapbe)
+[![Vokkit](https://github-readme-stats.vercel.app/api/pin/?username=vokkit&repo=vokkit-old&bg_color=0D1117&text_color=8B949E&count_private=true&include_all_commits=true)](https://github.com/Vokkit/Vokkit-old)
+[![MinimapBE](https://github-readme-stats.vercel.app/api/pin/?username=organization&repo=minimapbe&bg_color=0D1117&text_color=8B949E&count_private=true&include_all_commits=true)](https://github.com/organization/minimapbe)
 
 ## 질문이 있다면? 🤔
 
